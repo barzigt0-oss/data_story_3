@@ -1,0 +1,31 @@
+`r if (knitr:::is_html_output()) '
+# References {-}
+'`
+Caldeira, K., & Brown, P. T. (2018). Reduced emissions through climate damage to the economy.
+  Proceedings of the National Academy of Sciences, 116(3), 714–716. https://doi.org/10.1073/pnas.1819605116
+
+Dasgupta, S., Laplante, B., Wang, H., & Wheeler, D. (2002). Confronting the Environmental Kuznets Curve. 
+  Journal of Economic Perspectives, 16(1), 147–168. https://doi.org/10.1257/0895330027157
+
+Igini, M. (2024, June 26). Fossil Fuel Comprised 82% of Global Energy Mix in 2023. Earth.org. 
+  https://earth.org/fossil-fuel-accounted-for-82-of-global-energy-mix-in-2023-amid-record-consumption-report/
+
+Li, N., Yuan, R., & Zheng, S. (2023). Will technological factors promote the decoupling of emissions? A cross-sectoral analysis of Chinese industrial listed   firms. Environmental Impact Assessment Review, 104, 107296. https://doi.org/10.1016/j.eiar.2023.107296
+
+Ritchie, H. (2018, March 25). Shrink emissions, not the economy! Our World in Data.
+  https://ourworldindata.org/shrink-emissions-not-the-economy
+
+Ritchie, H. (2021, November 30). A Number of Countries Have Decoupled Economic Growth from Energy use, Even If We Take Offshored Production into Account. 
+  Our World in Data. https://ourworldindata.org/energy-gdp-decoupling
+
+Rooper, H. (2024, July 26). Emissions Growth in the Developing World. Climate Leadership Council.
+  https://clcouncil.org/blog/emissions-growth-in-the-developing-world/
+
+United Nations. (2015). The 17 sustainable development goals. 
+  United Nations. https://sdgs.un.org/goals
+
+Ward, J. D., Sutton, P. C., Werner, A. D., Costanza, R., Mohr, S. H., & Simmons, C. T. (2016). Is Decoupling GDP Growth from Environmental Impact Possible?
+  PLOS ONE, 11(10), e0164733. https://doi.org/10.1371/journal.pone.0164733
+
+Woodard, D. L., Davis, S. J., & Randerson, J. T. (2018). Economic carbon cycle feedbacks may offset additional warming from natural feedbacks.
+  Proceedings of the National Academy of Sciences, 116(3), 759–764. https://doi.org/10.1073/pnas.1805187115

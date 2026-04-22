@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>0.0.1 Setup this bookdown project on your own computer | README</title>
+  <meta name="description" content="" />
+  <meta name="generator" content="bookdown 0.35 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="0.0.1 Setup this bookdown project on your own computer | README" />
+  <meta property="og:type" content="book" />
+  
+  
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="0.0.1 Setup this bookdown project on your own computer | README" />
+  
+  
+  
+
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+
+
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+
+
+
+<style type="text/css">
+  
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+</style>
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">An online book.</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="0.0.1" data-path=""><a href="#setup-this-bookdown-project-on-your-own-computer"><i class="fa fa-check"></i><b>0.0.1</b> Setup this <code>bookdown</code> project on your own computer</a></li>
+<li class="chapter" data-level="0.0.2" data-path=""><a href="#how-to-develop-a-bookdown-book"><i class="fa fa-check"></i><b>0.0.2</b> How to develop a <code>bookdown</code> book:</a></li>
+<li class="chapter" data-level="0.1" data-path=""><a href="#how-to-publish-your-bookdown-book-online"><i class="fa fa-check"></i><b>0.1</b> How to publish your <code>bookdown</code> book online:</a></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./"></a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<!--bookdown:title:end-->
+<!--bookdown:title:start-->
+<p>This is a minimal example of a book based on R Markdown and <strong>bookdown</strong> (<a href="https://github.com/rstudio/bookdown" class="uri">https://github.com/rstudio/bookdown</a>), geared specifically for students in ESCI 222 (Sewanee).</p>
+<p> </p>
+<div id="setup-this-bookdown-project-on-your-own-computer" class="section level3 hasAnchor" number="0.0.1">
+<h3><span class="header-section-number">0.0.1</span> Setup this <code>bookdown</code> project on your own computer<a href="#setup-this-bookdown-project-on-your-own-computer" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p><strong>1.</strong> Copy the repo link with the green button above.</p>
+<p><strong>2.</strong> In Terminal, navigate to your <code>repos</code> folder, then use <code>git clone &lt;paste url&gt;</code> to clone this repo to your local machine.</p>
+<p><strong>3.</strong> Look inside the <code>bookdown_minimal</code> repo using your Explorer/Finder. Double-click on <code>bookdown-minimal.Rproj</code> to open this “project” in <code>RStudio</code>.</p>
+<p><strong>4.</strong> If you need to, install the <code>bookdown</code> package.</p>
+<pre><code>install.packages(&quot;bookdown&quot;)</code></pre>
+<p><strong>5.</strong> In the top right pane (the one that has “<em>Environment</em>” as one of the tabs), look to see if there is now a tab named “<em>Build</em>”.</p>
+<p><strong>6.</strong> On that “<em>Build</em>”” tab, click on the “<em>Build Book</em>” button, and wait to see if a new window pops up with your book.</p>
+<p><strong>7.</strong> If so, now look in the bottom-right pane (the one that typically shows plots), under the “Files” tab. Click on the <code>index.Rmd</code> file.</p>
+<p><strong>8.</strong> In the <code>YAML</code> at the top of <code>index.Rmd</code>, customize the title, author and description of your book. Re-build to see if the changes were applied.</p>
+<p><strong>9.</strong> If that all worked, then…</p>
+<p><em>(a)</em> Go back to Github and create your own repo for developing your own <code>bookdown</code> project.</p>
+<p><em>(b)</em> Clone it to to your local <code>repos</code> folder.</p>
+<p><em>(c)</em> Now copy and paste all the files from this <code>bookdown-minimal</code> repo into that new empty repo.</p>
+<p><em>(d)</em> Close the <code>RStudio</code> window of the <code>bookdown-minimal</code> project.</p>
+<p><em>(e)</em> In your new repo, change the <code>.Rproj</code> filename from <code>bookdown-minimal</code> to your own preferred filename.</p>
+<p><em>(f)</em> Open up that <code>.Rproj</code> file and start developing your book!</p>
+<p> </p>
+</div>
+<div id="how-to-develop-a-bookdown-book" class="section level3 hasAnchor" number="0.0.2">
+<h3><span class="header-section-number">0.0.2</span> How to develop a <code>bookdown</code> book:<a href="#how-to-develop-a-bookdown-book" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p><em>In <code>bookdown</code>, the basic rules are:</em></p>
+<ol style="list-style-type: decimal">
+<li><p>Each chapter should occur in its own <code>Rmd</code> file;</p></li>
+<li><p>The top line in each <code>Rmd</code> should be the chapter tile (using a single “#” at the start of the line.</p></li>
+<li><p>The chapters will be appear in the alphabetical order of their filenames, so include a number at the start of each <code>Rmd</code> filename to control their sequence.</p></li>
+<li><p>As you work on each <code>Rmd</code> individually, you can render them to polish how they look using the “Knit” button, as you would any <code>Rmd</code> project.</p></li>
+<li><p>But when you are ready to “render” the entire book into a single product, you should click the “Build Book” button in the top right pane.</p></li>
+</ol>
+<p> </p>
+</div>
+<div id="how-to-publish-your-bookdown-book-online" class="section level2 hasAnchor" number="0.1">
+<h2><span class="header-section-number">0.1</span> How to publish your <code>bookdown</code> book online:<a href="#how-to-publish-your-bookdown-book-online" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Do this exactly as you would a regular <code>Rmd</code>-based repo: In <em>Terminal</em>, <code>add</code>-<code>commit</code>-<code>push</code> your changes to Github. On Github, set up the Github Pages website for your project. Put a link to</p>
+<p> </p>
+<p>For help using bookdown, you can find the bookdown book here.</p>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+
+
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+  "sharing": {
+    "github": false,
+    "facebook": true,
+    "twitter": true,
+    "linkedin": false,
+    "weibo": false,
+    "instapaper": false,
+    "vk": false,
+    "whatsapp": false,
+    "all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+  },
+  "fontsettings": {
+    "theme": "white",
+    "family": "sans",
+    "size": 2
+  },
+  "edit": {
+    "link": "https://github.com/rstudio/bookdown-demo/edit/master/%s",
+    "text": "Edit"
+  },
+  "history": {
+    "link": null,
+    "text": null
+  },
+  "view": {
+    "link": null,
+    "text": null
+  },
+  "download": null,
+  "search": false,
+  "toc": {
+    "collapse": "subsection"
+  },
+  "theme": "united"
+});
+});
+</script>
+
+</body>
+
+</html>

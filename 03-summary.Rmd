@@ -1,0 +1,10 @@
+# Conclusion
+
+The question of whether economic growth and carbon emissions can be separated cannot be answered through theory alone. Chapter 1 establishes their historical relationship which makes decoupling a more challenging feat. But Chapter 2 reveals how paths toward decoupling vary across sectors, underscoring that decoupling is more attainable if approached from a more microeconomic perspective. Economic growth and environmental degradation are connected through the antiquated systems that sustain production, not by necessity.
+
+The issue is no longer whether decoupling is possible, but where and how it occurs. Evidence shows that some sectors can decouple more easily, while fossil-fuel-dependent industries lag behind. Because sectors are interconnected (i.e., through infrastructure, supply chains, and energy grids) progress toward decoupling is a collective effort. Without coordination, emissions reductions remain fragmented.
+
+The United Nations Sustainable Development Goals [(SDGs)](https://sdgs.un.org/goals) highlight both the challenge and the solution. The tension between SDG 8 (i.e., decent work and economic growth) and SDG 13 (i.e., climate action) is the core dilemma. But by prioritizing SDG 9 (i.e., industry, innovation, and infrastructure) and SDG 12 (i.e., responsible consumption and production) industries can modernize across sectors, creating more sustainable economies.
+
+A perfect Pareto optimal balance between growth and emissions is unfortunately unlikely in the short term. However, a far better outcome is achievable if sectors transition together. This realization begs the question: if decoupling is sector-driven, where is it actually occurring? To answer this, the next step is to move beyond theory and start analyzing sector-level data by comparing economic output and emissions across industries of the foremost producing countries (i.e., United States, China, and Germany). By doing so, it will be more apparent which industries require further innovation and infrastructural reconfiguration and those which are setting the pace of the charge toward a decoupled future. 
+
